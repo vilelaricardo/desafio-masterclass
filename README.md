@@ -1,6 +1,6 @@
 # DESAFIO MASTERCLASS
 
-A ideia aqui é que você tente reproduzir aquilo que vimos durante a Masteclass e também construir o restante do código (usando TDD :heart_eyes: ) para cumprir os demais requisitos.
+A ideia aqui é que você tente reproduzir aquilo que vimos durante a Masterclass e também construir o restante do código (usando TDD :heart_eyes: ) para cumprir os demais requisitos.
 Bora lá!? 🚀
 
 ## Estória (User Storie)
